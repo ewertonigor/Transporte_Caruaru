@@ -2,3 +2,20 @@
   padding: 0;
   margin: 0;
 }
+
+
+.div-title{
+  background: rgb(36, 110, 36);
+  padding: 10px;
+}
+.title {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.img-title {
+  height: 5%;
+  width: 5%;
+}
