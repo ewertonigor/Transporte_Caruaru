@@ -1,0 +1,32 @@
+.main-bg {
+  background: white;
+  background-size: cover;
+  background-position: center center;
+  color: var()
+}
+
+.green-bg {
+  background: var(--green)
+}
+
+.main-content {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: var(--gap);
+}
+
+.section {
+  min-height: 100vh;
+}
+
+.main-content-white {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: var(--gap);
+  color: var(--white-color);
+}
+
+.menu-spacing {
+  height: 65px;;
+}
+
